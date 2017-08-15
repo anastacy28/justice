@@ -2,6 +2,7 @@
   display: block;
   padding: 12px 4px;
   background: #000;
-  max-width: 96px; }
+  max-width: 96px;
+  text-align: center; }
   .button a {
     color: #fff; }
