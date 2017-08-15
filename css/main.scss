@@ -4,6 +4,10 @@
 @import url("slick.scss");
 @import url("button.scss");
 
+$header-footer-color: #888;
+$general-font-size: 55px;
+$color-title: #fff;
+$main-color: #999;
 
 @font-face {
   font-family: 'shopy';
@@ -109,11 +113,6 @@ ul, li {
 a {
     text-decoration: none;
 }
-
-$header-footer-color: #888;
-$general-font-size: 55px;
-$color-title: #fff;
-$main-color: #999;
 
 body {
    font-family: "OpenSans", sans-serif;
